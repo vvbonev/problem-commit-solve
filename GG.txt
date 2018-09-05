@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Ninja e noob
+=======
+Vvbonev said GG
+>>>>>>> 06d248abb15f58969d80be28a045976bb44caf2b
